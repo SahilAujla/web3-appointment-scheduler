@@ -29,6 +29,8 @@ This would let anyone to just send their unique url to anyone, if someone wants 
 
 2. We can also make a field for the appointment url, where the person who is booking the appointment can add a Zoom/google meet meeting url for other person to join. And that url will be sent to the smart contract owner by text message when the appointment is confirmed. 
 
+3. We can integrate Huddle01(https://huddle01.com/) into it, as Calendly integrates with Google meet.
+
 ## Business Model
 
 We plan to keep building this project further and the business model that can be used to make profits is that we can keep 1% of the appointment fee in the smart contract and then can withdraw it by just coding a solidity function that can only be called by the smart contract owner.
