@@ -1,5 +1,3 @@
-### This repo was created just for #shill-n-chill. I combined the frontend and backend code in this. The original frontend & smart contracts can be found ![here](https://github.com/SahilAujla/Calend3) and the backend code can be found ![here](https://github.com/SahilAujla/Calend3-backend)
-
 # Calend3
 ## The web3 appointment scheduler
 
