@@ -29,7 +29,7 @@ This would let anyone to just send their unique url to anyone, if someone wants 
 
 2. We can also make a field for the appointment url, where the person who is booking the appointment can add a Zoom/google meet meeting url for other person to join. And that url will be sent to the smart contract owner by text message when the appointment is confirmed. 
 
-3. We can integrate Huddle01(https://huddle01.com/) into it, as Calendly integrates with Google meet.
+3. We can integrate [Huddle01](https://huddle01.com/) into it, as Calendly integrates with Google meet.
 
 ## Business Model
 
